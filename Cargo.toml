@@ -10,7 +10,7 @@ keywords = ["graphics", "vulkan"]
 categories = ["graphics"]
 
 [dependencies]
-ash = { version = "0.37.0", features = ["debug"] }
+ash = { version = "0.38.0", features = ["debug"] }
 raw-window-handle = "0.6.2"
 gpu-allocator = "0.22.0"
 derivative = "2.2.0"
